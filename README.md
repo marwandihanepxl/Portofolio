@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![pxl right](./images/pxl.png)
 # Portfolio
 ## Informatie <!-- {docsify-ignore} -->
@@ -30,3 +31,18 @@ Elk van deze delen moet voorkomen in jouw portfolio. De uitleg wat er in elk dee
 Een hulpmiddel aanbieden bij de reflectie op jouw leer- en werkervaring tijdens je werkplekleren. Je zal je volledige verloop in WPL in beeld brengen en zo je eigen leerproces kunnen zien. Op het einde van je graduaat zie je dan hoe het staat met je ontwikkeling, kan je al je keuzes verantwoorden en kan je je plannen toelichten voor de toekomst. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /> Content on this site is licenced under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence</a>.
+=======
+# Portofolio
+>>>>>>> f8f3b74cb9daa6abd30e65899117c5a39ef4ccd1
+<<<<<<< HEAD
+Your local changes to the README.md
+=======
+Remote changes in the README.md
+>>>>>>> FETCH_HEAD
+
+# Final README Content
+
+Your local changes to the README.md
+
+Remote changes in the README.md
+
