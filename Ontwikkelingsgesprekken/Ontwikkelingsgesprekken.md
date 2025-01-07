@@ -50,8 +50,6 @@ Empathie: Ik wou niet presenteren en gaf mij groepsleden de opdracht om te prese
 
 (ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)
 
-...
-...
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
