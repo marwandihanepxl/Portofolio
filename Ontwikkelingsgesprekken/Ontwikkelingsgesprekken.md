@@ -46,7 +46,8 @@ Soft skills:
 *Emotionele zelfcontrole: Medemogelijk gemaakt door maturiteit, maar ik moest meerdere malen de aapje van binnen negeren om te focussen op het doel.
 
 Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
-Empathie: Ik wou niet presenteren en gaf mij groepsleden de opdracht om te presenteren voor de aula. Maar heb er niet aangedacht dat zij dezelfde gevoelens erbij hebben in het moment(egoistische keuze).
+Empathie: Ik wou niet presenteren en gaf mij groepsleden de opdracht om te presenteren voor de aula. Maar heb er niet aangedacht dat zij dezelfde gevoelens erbij hebben in het moment(een egoistische keuze).
+
 (ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)
 
 ...
