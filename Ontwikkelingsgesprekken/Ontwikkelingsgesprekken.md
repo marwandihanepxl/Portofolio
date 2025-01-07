@@ -36,8 +36,9 @@ Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
 Een portofolio behouden
 
-Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe. Technische skills:
-Hard skills:
+Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe.  
+#Technische skills:
+#Hard skills:             
 Data-analyse: Ik heb vele malen geidentificeerd dat ik een redelijk goed ben in het verzamelen van data op het internet.
 Windows-essentieel: Ik heb geleerd hoe ik herstelpunten kan maken, het systeem kan herstellen naar een eerdere staat, en hoe ik back-ups van belangrijke bestanden kan maken.
 
