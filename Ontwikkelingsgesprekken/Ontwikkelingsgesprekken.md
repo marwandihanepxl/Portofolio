@@ -38,12 +38,12 @@ Een portofolio behouden
 
 Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe. Technische skills:
 Hard skills:
-###Data-analyse: Ik heb vele malen geidentificeerd dat ik een redelijk goed ben in het verzamelen van data op het internet.
-###Windows-essentieel: Ik heb geleerd hoe ik herstelpunten kan maken, het systeem kan herstellen naar een eerdere staat, en hoe ik back-ups van belangrijke bestanden kan maken.
+Data-analyse: Ik heb vele malen geidentificeerd dat ik een redelijk goed ben in het verzamelen van data op het internet.
+Windows-essentieel: Ik heb geleerd hoe ik herstelpunten kan maken, het systeem kan herstellen naar een eerdere staat, en hoe ik back-ups van belangrijke bestanden kan maken.
 
-Soft skills:
-###Probleem oplossend: Dit is een soft skill dat ik al jaren heb opgemerkt maar dit jaar heeft het mij meerdere malen gered.
-###Emotionele zelfcontrole: Medemogelijk gemaakt door maturiteit, maar ik moest meerdere malen de aapje van binnen negeren om te focussen op het doel.
+Soft skills:        
+Probleem oplossend: Dit is een soft skill dat ik al jaren heb opgemerkt maar dit jaar heeft het mij meerdere malen gered.
+Emotionele zelfcontrole: Medemogelijk gemaakt door maturiteit, maar ik moest meerdere malen de aapje van binnen negeren om te focussen op het doel.
 
 Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
 Empathie: Ik wou niet presenteren en gaf mij groepsleden de opdracht om te presenteren voor de aula. Maar heb er niet aangedacht dat zij dezelfde gevoelens erbij hebben in het moment(een egoistische keuze).
