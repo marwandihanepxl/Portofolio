@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![pxl right](./images/pxl.png)
 # Portfolio
 ## Informatie <!-- {docsify-ignore} -->
